@@ -1,4 +1,4 @@
 # BrownianMotionScreensaver
 
-A nice little ideal gas screensaver webpage - available
+A nice little Brownian motion screensaver webpage - available
 [here](https://dcragusa.github.io/BrownianMotionScreensaver/).
